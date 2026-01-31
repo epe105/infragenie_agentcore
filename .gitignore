@@ -1,0 +1,6 @@
+# Python virtual environment
+.venv
+.env
+.bedrock_agentcore.yaml
+.bedrock_agentcore
+__pycache__
